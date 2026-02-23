@@ -1,5 +1,11 @@
 DEUTSCHER BUCHPREIS DATASET
 
+To run Jupyter Lab, download these files: 
+bertopic_deutscher_buchpreis.ipynb
+dbp_scraper_notebook.ipynb
+deutscher_buchpreis_enriched.csv
+
+
 Motivation: 
 
 Since its inception in 2005, the Deutscher Buchpreis has garnered a reputation in Germany comparable to the English-language Booker Prize and the French-language Prix Goncourt prize. Every year, a winner is selected amongst 6 shortlisted texts, which are chosen amongst 20 long listed texts. In this topic modeling exercise, I was curious about whether there was an evolution in the major themes across the shortlisted and winning texts. 
